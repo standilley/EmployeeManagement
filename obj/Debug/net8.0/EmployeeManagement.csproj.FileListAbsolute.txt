@@ -134,3 +134,4 @@ C:\Users\stand\source\repos\EmployeeManagement\obj\Debug\net8.0\refint\EmployeeM
 C:\Users\stand\source\repos\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
 C:\Users\stand\source\repos\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
 C:\Users\stand\source\repos\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
+C:\Users\stand\source\repos\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.sourcelink.json
